@@ -1,0 +1,6 @@
+[core]
+    remote = minio_storage
+['remote "minio_storage"']
+    url = s3://test
+    use_ssl = false
+    endpointurl = http://85.239.47.84:9000
