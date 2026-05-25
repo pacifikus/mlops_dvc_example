@@ -27,7 +27,7 @@
     endpointurl = http://85.239.47.84:9000
 ```
 
-Добавим credentials для minio в config.local
+4. Потом добавьте credentials для minio в config.local
 
 
 ### Работа с DVC & GIT
